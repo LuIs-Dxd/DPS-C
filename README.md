@@ -6,7 +6,7 @@ Este proyecto en consiste en la implementación de un acceso rápido para Valida
  1. Lee los comentarios del script e introducir los datos solicitados.
  2. Elimina los comentarios del script una vez que los hayas revisado.
 
-> Instrucciones de uso:
+> Instrucciones de uso: 
 
 1. Agrega un marcador en tu navegador web.
 
@@ -16,7 +16,7 @@ Este proyecto en consiste en la implementación de un acceso rápido para Valida
 
 4. Accede a la página web donde deseas utilizar esta función (En este caso, Validator).
 
-5. Haz clic en el marcador que agregaste en el paso 1.
+5. Haz clic en el marcador que agregaste en el paso 1. ---> Recuerda hacer este paso siempre que vayas a utilizar el marcador.
 
 6. A continuación, presiona la tecla de acción designada (en este caso, "X").
 
