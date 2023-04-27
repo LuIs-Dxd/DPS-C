@@ -23,3 +23,29 @@ Instrucciones de uso:
 ¡Listo! Ahora, cada vez que necesites utilizar esta opción, simplemente haz clic en el marcador después de cargar la página. La función se mantendrá activa y solo tendrás que activarla con la tecla de acción especificada.
 
 ¡Disfruta de una experiencia más eficiente con este script!
+
+
+
+  ----> Firefox <----
+- 1
+
+![imagen](https://user-images.githubusercontent.com/45068622/234949794-01e19e3f-1ef7-4bbf-933b-c113c9f1e98b.png)
+
+- 2
+
+![imagen](https://user-images.githubusercontent.com/45068622/234950007-80afc965-bab0-4d47-b64b-0fe6f2e1a551.png)
+
+- 3 Click derecho en otros marcadores
+
+![imagen](https://user-images.githubusercontent.com/45068622/234950274-d5a14fd5-dc3c-4842-9b32-2d218099bc68.png)
+
+- 4
+
+![imagen](https://user-images.githubusercontent.com/45068622/234950430-d55560e5-dd49-4068-897c-bd3b39032f96.png)
+
+- 5 Agregamos los datos de la imagen y listo!.
+
+![imagen](https://user-images.githubusercontent.com/45068622/234950721-45902d2d-5e29-4f0a-95d0-9bc8483f1788.png)
+
+  ----> Chrome <----
+
