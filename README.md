@@ -1,12 +1,12 @@
 # DPS-C
 Este proyecto en consiste en la implementación de un acceso rápido para Validator, optimizando el proceso de selección de DPS
 
-Pasos:
+> Pasos:
 
-1. Lee los comentarios del script e introducir los datos solicitados.
-2. Elimina los comentarios del script una vez que los hayas revisado.
+ 1. Lee los comentarios del script e introducir los datos solicitados.
+ 2. Elimina los comentarios del script una vez que los hayas revisado.
 
-Instrucciones de uso:
+> Instrucciones de uso:
 
 1. Agrega un marcador en tu navegador web.
 
@@ -28,7 +28,8 @@ Instrucciones de uso:
 
 
 
-  /----> Firefox <----\
+#  <p align="center">----> Firefox <----</p>
+
 - 1
 
 ![imagen](https://user-images.githubusercontent.com/45068622/234949794-01e19e3f-1ef7-4bbf-933b-c113c9f1e98b.png)
@@ -52,7 +53,7 @@ Instrucciones de uso:
 
 
 
-  /----> Chrome <----\
+#  <p align="center">----> Chrome <----</p>
  - 1
 
 ![imagen](https://user-images.githubusercontent.com/45068622/234961958-f683e965-25b5-4945-ade0-10e9cdf378a4.png)
