@@ -68,4 +68,4 @@ Este proyecto en consiste en la implementación de un acceso rápido para Valida
 
 
 
-### <p align="right">**Espero que todo esto se sirva de ayuda :)**</p>
+### <p align="right">**Espero que todo esto les sirva de ayuda :)**</p>
