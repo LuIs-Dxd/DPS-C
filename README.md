@@ -54,11 +54,11 @@ Este proyecto en consiste en la implementación de un acceso rápido para Valida
 
 
 #  <p align="center">----> Chrome <----</p>
- - 1
+ - 1 - Agregar marcador
 
 ![imagen](https://user-images.githubusercontent.com/45068622/234961958-f683e965-25b5-4945-ade0-10e9cdf378a4.png)
 
- - 2
+ - 2 - Seleccionas more...
  
 ![imagen](https://user-images.githubusercontent.com/45068622/234962092-d0f24014-4598-4dd8-8472-a1d07ec224e8.png)
 
