@@ -3,7 +3,7 @@ Este proyecto en consiste en la implementación de un acceso rápido para Valida
 
 Pasos:
 
-1. Lee los comentarios del script y asegúrate de comprender su funcionamiento.
+1. Lee los comentarios del script.
 2. Elimina los comentarios del script una vez que los hayas revisado.
 
 Instrucciones de uso:
