@@ -26,7 +26,9 @@ Instrucciones de uso:
 
 
 
-  ----> Firefox <----
+
+
+  /----> Firefox <----\
 - 1
 
 ![imagen](https://user-images.githubusercontent.com/45068622/234949794-01e19e3f-1ef7-4bbf-933b-c113c9f1e98b.png)
@@ -47,5 +49,19 @@ Instrucciones de uso:
 
 ![imagen](https://user-images.githubusercontent.com/45068622/234950721-45902d2d-5e29-4f0a-95d0-9bc8483f1788.png)
 
-  ----> Chrome <----
+
+
+
+  /----> Chrome <----\
+ - 1
+
+![imagen](https://user-images.githubusercontent.com/45068622/234961958-f683e965-25b5-4945-ade0-10e9cdf378a4.png)
+
+ - 2
+ 
+![imagen](https://user-images.githubusercontent.com/45068622/234962092-d0f24014-4598-4dd8-8472-a1d07ec224e8.png)
+
+ - Al final te debe de quedar así:
+ 
+![imagen](https://user-images.githubusercontent.com/45068622/234962485-e654d6cc-6d14-43f1-ad80-555ede30ec03.png)
 
